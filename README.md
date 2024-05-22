@@ -1,1 +1,0 @@
-# ritcheyandai_get_part_of_file_i1
